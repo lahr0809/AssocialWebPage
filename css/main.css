@@ -735,7 +735,7 @@ a:not([href]):not([tabindex]):hover {
   height: 100%;
   top: 0px;
   left: 0px;
-  background: #0025db;
+  background: #0062db;
   background-image:url('https://associalweb.com.co/img/formas-home.png')!important;
   background-size:cover;
 }
