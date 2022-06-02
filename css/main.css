@@ -739,8 +739,17 @@ a:not([href]):not([tabindex]):hover {
   background-size:cover;
 }
 
-
+.banner {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  background: #0025db;
+  background-image:url('https://associalweb.com/img/formas-home.png')!important;
+  background-size:cover;
 }
+
 /* ==========================================================================
     Pricing Table
     ========================================================================== */
